@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1533902552813" clover="3.2.0">
+  <project timestamp="1533902552813" name="All files">
+    <metrics statements="20" coveredstatements="12" conditionals="12" coveredconditionals="9" methods="11" coveredmethods="6" elements="43" coveredelements="27" complexity="0" loc="20" ncloc="20" packages="3" files="4" classes="4">
+      <package name="components.header">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <file name="index.js" path="/Users/apaa/Documents/Code/preact/my-project/src/components/header/index.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="routes.flowers">
+        <metrics statements="13" coveredstatements="10" conditionals="10" coveredconditionals="9" methods="8" coveredmethods="5"/>
+        <file name="flower.js" path="/Users/apaa/Documents/Code/preact/my-project/src/routes/flowers/flower.js">
+          <metrics statements="9" coveredstatements="8" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="3"/>
+          <line num="12" count="1" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="20" count="1" type="stmt"/>
+          <line num="24" count="19" type="cond" truecount="4" falsecount="0"/>
+          <line num="25" count="7" type="stmt"/>
+          <line num="28" count="12" type="stmt"/>
+          <line num="32" count="12" type="cond" truecount="2" falsecount="0"/>
+          <line num="34" count="12" type="cond" truecount="2" falsecount="0"/>
+          <line num="38" count="12" type="stmt"/>
+        </file>
+        <file name="index.js" path="/Users/apaa/Documents/Code/preact/my-project/src/routes/flowers/index.js">
+          <metrics statements="4" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="23" count="1" type="stmt"/>
+          <line num="27" count="7" type="stmt"/>
+        </file>
+      </package>
+      <package name="routes.prompt">
+        <metrics statements="5" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <file name="index.js" path="/Users/apaa/Documents/Code/preact/my-project/src/routes/prompt/index.js">
+          <metrics statements="5" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>

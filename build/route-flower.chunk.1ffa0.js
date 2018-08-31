@@ -1,0 +1,2 @@
+webpackJsonp([3],{dxqn:function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=o("KM04"),r=(o.n(n),o("rpDW")),c=o.n(r),u=Object(n.h)("h1",null,"Flower");t.default=function(){return Object(n.h)("div",{class:c.a.root},u)}},rpDW:function(e){e.exports={root:"root__2TULl"}}});
+//# sourceMappingURL=route-flower.chunk.1ffa0.js.map

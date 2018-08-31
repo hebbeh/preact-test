@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.root {
+    display: block;
+    width: 900px;
+    height: auto;
+    margin-top: 56px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.plus {
+    color: darkslateblue;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container {
+    background: aliceblue;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 2px;
+}
+
+.flowerText {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: auto;
+    padding: 30px 30px;
+}
+
+.info {
+    background: white;
+    display: block;
+    width: 600px;
+    height: auto;
+    padding: 30px 30px;
+    border-top: 1px solid lightgrey;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+.flowerDesc {
+    font-size: 14px;
+    width: 100%;
+}
+
+.flower {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: #FEDE81;
+    /* border: 35px solid #A0AAB2; */
+    align-self: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.selectedFlower {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 10px solid #673AB7;
+    background-color:  aliceblue;
+    align-self: center;
+    margin-right: auto;
+    margin-left: auto;
+}
